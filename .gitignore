@@ -1,0 +1,4 @@
+#######Ignoring library and remp folders for unity
+
+UnityProject/Library
+UnityProject/Temp
